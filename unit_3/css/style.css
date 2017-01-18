@@ -17,14 +17,15 @@ ul{
     list-style:none;
     position:center;
 }
+
 hr {
-  width: 400px;
+  width: 800px;
 }
-/*
+
 body {
   text-align: center;
   position: center;
   background: url("images/hero.jpg");
   background-size: cover;
   font-family: Helvetica;
-}*/
+}
