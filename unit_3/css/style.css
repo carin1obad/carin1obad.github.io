@@ -4,6 +4,10 @@ div.wrap {
     margin:0 auto;
 }
 
+body{
+   background-image: url("images/hero.jpg");
+}
+
 h1 {
 	text-align: center;
 	color: green;
