@@ -34,13 +34,14 @@ hr {
 
 #history {
 	background-color: #0000ff;
-    font-size: 16px;
-	width: 500px;
+    font-size: 18px;
+	width: 500me;
 	margin: 0 auto;
 	margin-top: 175px;
 	}
 
 #crepes {
+    background-color: #ff0000;
     width: 100px;
 	color: #000;
 	font-size: 14px;
