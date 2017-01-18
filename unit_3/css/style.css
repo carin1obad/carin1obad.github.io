@@ -31,6 +31,15 @@ hr {
   width: 100;
 }
 
+.crepe_image {
+    style="float: left; 
+    width: 30%; 
+    height: 200px;
+    margin-right: 1%;
+    margin-bottom: 0.5em;
+    border-style: solid;
+    border-color: #ff0000;
+}
 
 #history {
 	background-color: #0000ff;
