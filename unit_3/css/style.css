@@ -1,11 +1,13 @@
 h1 {
 	text-align: center;
 	color: green;
+	font-size: 300px;
 }
 
 #slogan { 
     text-align: center;
     color: red;
+    font-size = 100px;
 }
 
 ul{
