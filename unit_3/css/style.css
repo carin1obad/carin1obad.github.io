@@ -51,6 +51,10 @@ h1 {
 hr {
   width: "100%";
 }
+
+#crepe_pics {
+	width:1000px; margin:0 auto 0 auto; text-align:center;
+}
 /*
 body {
   text-align: center;
