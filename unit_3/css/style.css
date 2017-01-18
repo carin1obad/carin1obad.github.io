@@ -16,6 +16,12 @@ h1 {
     font-weight: bold;
 }
 
+#history {
+	text-align: center
+	color: #ffffff;
+	font-size: 14px;
+	width: 50px
+}
 
 
 hr {
