@@ -38,18 +38,8 @@ h1 {
 	
 }
 
-/*#crepes {
+#crepes {
 
-    width: 100px;
-	color: #000;
-	font-size: 14px;
-	height: 500px;
-	margin: 15px auto;
-}*/
-
-#crepe_1 {
-	border-style: solid;
-    border-color: #ff0000 #0000ff;
     width: 100px;
 	color: #000;
 	font-size: 14px;
@@ -57,25 +47,7 @@ h1 {
 	margin: 15px auto;
 }
 
-#crepe_2 {
-	border-style: solid;
-    border-color: #ff0000 #0000ff;
-    width: 100px;
-	color: #000;
-	font-size: 14px;
-	height: 500px;
-	margin: 15px auto;
-}
 
-#crepe_3 {
-	border-style: solid;
-    border-color: #ff0000 #0000ff;
-    width: 100px;
-	color: #000;
-	font-size: 14px;
-	height: 500px;
-	margin: 15px auto;
-}
 
 hr {
   width: "100%";
