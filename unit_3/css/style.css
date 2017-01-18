@@ -1,15 +1,16 @@
 
-
-
-
 div.wrap {
     width:800px;
+    height: 100px;
     margin:15px auto;
     margin-bottom: 400px;
 }
 
 body{
    background: url("../images/crepe_background.jpg") no-repeat center center  fixed;
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
         background-size: cover;
 }
 
@@ -29,7 +30,7 @@ h1 {
 }
 
 hr {
-  width: 100%;
+  width: "100%";
 }
 
 
@@ -41,12 +42,10 @@ hr {
 	}
 
 #crepes {
-    width: 10em;
-    color: #000;
-    /* font-size: 14px; */
-    /* height: 500px; */
-    margin: 10px auto;
-    padding: 0;
-    list-style-position: inside;
+    width: 100px;
+	color: #000;
+	font-size: 14px;
+	height: 500px;
+	margin: 10px auto;
 }
 
