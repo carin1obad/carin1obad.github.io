@@ -1,0 +1,55 @@
+
+
+
+
+div.wrap {
+    width:800px;
+    margin:15px auto;
+    margin-bottom: 400px;
+}
+
+body{
+   background: url("../images/crepe_background.jpg") no-repeat center center  fixed;
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+	font-size: 50px;
+	font-family: 'Pacifico', cursive;
+}
+
+#slogan { 
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr {
+  width: 100%;
+}
+
+
+#history {
+	font-size: 16px;
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 175px;
+	}
+
+#crepes {
+    width: 10em;
+    color: #000;
+    /* font-size: 14px; */
+    /* height: 500px; */
+    margin: 10px auto;
+    padding: 0;
+    list-style-position: inside;
+}
+
