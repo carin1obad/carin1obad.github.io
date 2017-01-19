@@ -39,6 +39,7 @@ hr {
     margin-bottom: 0.5em;
     border-style: solid;
     border-color: #ff0000;
+    padding-right: 10px;
 }
 
 #history {
