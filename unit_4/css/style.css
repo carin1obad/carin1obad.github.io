@@ -1,0 +1,60 @@
+
+div.wrap {
+    width:800px;
+    height: 100px;
+    margin:15px auto;
+    margin-bottom: 400px;
+}
+
+body{
+   background: url("../images/free-beach-background.jpg")
+    no-repeat center center  fixed;
+        background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: #0000ff;
+	font-size: 50px;
+	font-family: 'Pacifico', cursive;
+}
+
+#slogan { 
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr {
+  width: 100;
+}
+
+.crepe_image {
+    float: left; 
+   /* width: 30%; 
+    height: 200px;
+    margin-right: 1%;*/
+    margin-bottom: 0.5em;
+    border-style: solid;
+    border-color: #ff0000;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+#history {
+	background-color: #0000ff;
+    font-size: 18px;
+	margin: 0 auto;
+	margin-top: 225px;
+	}
+
+#crepes {
+    background-color: #ff0000;
+    width: 100px;
+	color: #000;
+	font-size: 14px;
+	margin: 10px auto;
+}
+
