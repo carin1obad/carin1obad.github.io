@@ -14,7 +14,7 @@ body{
 
 h1 {
 	text-align: center;
-	color: #0000ff;
+	color: #00ff00;
 	font-size: 50px;
 	font-family: 'Pacifico', cursive;
 }
@@ -44,7 +44,7 @@ hr {
 }
 
 #history {
-	background-color: #0000ff;
+	background-color: #00ff00;
     font-size: 18px;
 	margin: 0 auto;
 	margin-top: 225px;
