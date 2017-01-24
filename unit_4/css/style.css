@@ -1,7 +1,7 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
-
+@import url('https://fonts.googleapis.com/css?family=Rokkitt');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 div.wrap {
     width:800px;
@@ -14,13 +14,14 @@ body{
    background: url("../images/free-beach-background.jpg")
     no-repeat center center  fixed;
     background-size: cover;
-    font-family: 'IM Fell English SC', serif;
+    font-family: 'Rokkitt', serif;
 }
 
 h1 {
 	text-align: center;
 	color: #00ff00;
 	font-size: 50px;
+    font-family: 'Lobster', cursive;
     /*
 	font-family: 'Pacifico', cursive;
     */
