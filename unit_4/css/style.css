@@ -13,7 +13,8 @@ div.wrap {
 body{
    background: url("../images/free-beach-background.jpg")
     no-repeat center center  fixed;
-        background-size: cover;
+    background-size: cover;
+    font-family: 'IM Fell English SC', serif;
 }
 
 h1 {
