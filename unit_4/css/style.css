@@ -28,6 +28,10 @@ h1 {
     background-color: #fff;
 }
 
+hr {
+  width: 100;
+}
+
 #slogan { 
     text-align: center;
     color: #ff0000;
@@ -35,23 +39,6 @@ h1 {
     font-style: italic;
     font-weight: bold;
 }
-
-hr {
-  width: 100;
-}
-
-.crepe_image {
-    float: left; 
-   /* width: 30%; 
-    height: 200px;
-    margin-right: 1%;*/
-    margin-bottom: 0.25em;
-    border-style: solid;
-    border-color: #ff0000;
-    padding-right: 3px;
-    padding-left: 3px;
-}
-
 
 
 #history {
@@ -65,10 +52,31 @@ hr {
     width: 600px;
 	}
 
+.crepe_image {
+    float: left; 
+   /* width: 30%; 
+    height: 200px;
+    margin-right: 1%;*/
+    margin-bottom: 0.25em;
+    border-style: solid;
+    border-color: #ff0000;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
 .crepes {
-    background-color: #ff0000;
+    background-color: #fff;
+    text-align: center;
+    font-size: 18px;
+    margin: 0 auto;
+    margin-top: 225px;
+    border-style: solid;
+    border-color: #00ff00;
+    width: 600px;
+
+    /*background-color: #ff0000;
     width: 100px;
     color: #000;
     font-size: 14px;
-    margin: 10px auto;
+    margin: 10px auto;*/
 }
