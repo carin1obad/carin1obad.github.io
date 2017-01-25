@@ -29,6 +29,19 @@ hr {
   width: 100;
 }
 
+
+ul {
+    background-color: #fff;
+    width: 120px;
+    margin: auto auto;
+    border-style: solid;
+    border-color: #ff0000;
+}
+
+li {
+    float: center;
+}
+
 #slogan { 
     text-align: center;
     color: #ff0000;
@@ -59,15 +72,4 @@ hr {
 }
 
 
-ul {
-    background-color: #fff;
-    width: 120px;
-    margin: auto auto;
-    border-style: solid;
-    border-color: #ff0000;
-}
-
-li {
-    float: center;
-}
 
