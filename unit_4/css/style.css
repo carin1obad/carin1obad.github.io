@@ -53,15 +53,14 @@ hr {
 }
 
 .crepe_ul {
-    float: left; 
-   /* width: 30%; 
-    height: 200px;
-    margin-right: 1%;*/
-    margin-bottom: 0.25em;
+    background-color: #fff;
+    text-align: center;
+    font-size: 18px;
+    margin: 0 auto;
+    margin-top: 225px;
     border-style: solid;
-    border-color: #ff0000;
-    padding-right: 3px;
-    padding-left: 3px;
+    border-color: #00ff00;
+    width: 600px;
 }
 
 #history {
@@ -75,10 +74,10 @@ hr {
     width: 600px;
 	}
 
-#crepes {
+/*#crepes {
     background-color: #fff;
     width: 100px;
-	/*color: #000;
+	color: #000;
 	font-size: 14px;
 	margin: 10px auto;*/
 }
