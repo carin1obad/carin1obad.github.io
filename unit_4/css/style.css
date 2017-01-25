@@ -22,9 +22,6 @@ h1 {
 	color: #00ff00;
 	font-size: 50px;
     font-family: 'Lobster', cursive;
-    /*
-	font-family: 'Pacifico', cursive;
-    */
     background-color: #fff;
 }
 
@@ -54,9 +51,6 @@ hr {
 
 .crepe_image {
     float: left; 
-   /* width: 30%; 
-    height: 200px;
-    margin-right: 1%;*/
     margin-bottom: 0.25em;
     border-style: solid;
     border-color: #ff0000;
@@ -64,19 +58,3 @@ hr {
     padding-left: 3px;
 }
 
-.crepes {
-    background-color: #ff0000;
-   /* text-align: center;
-    font-size: 18px;
-    margin: 0 auto;
-    margin-top: 225px;
-    border-style: solid;
-    border-color: #00ff00;
-    width: 600px;
-
-    background-color: #ff0000;
-    width: 100px;
-    color: #000;
-    font-size: 14px;
-    margin: 10px auto;*/
-}
