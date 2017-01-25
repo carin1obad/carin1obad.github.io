@@ -3,12 +3,12 @@
 @import url('https://fonts.googleapis.com/css?family=Rokkitt');
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 
-/*div.wrap {
+div.wrap {
     width:800px;
     height: 100px;
     margin:15px auto;
     margin-bottom: 400px;
-}*/
+}
 
 body {
    background: url("../images/free-beach-background.jpg")
