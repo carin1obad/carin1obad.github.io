@@ -61,8 +61,10 @@ hr {
 
 ul {
     background-color: #fff;
-    width: 100px;
+    width: 120px;
     margin: auto auto;
+    border-style: solid;
+    border-color: #ff0000;
 }
 
 li {
