@@ -49,6 +49,11 @@ aside {
     padding: 20px;
 }
 
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
 
 h1 {
 	text-align: center;
@@ -56,16 +61,6 @@ h1 {
 	font-size: 50px;
     font-family: 'Lobster', cursive;
     background-color: #fff;
-}
-
-
-
-ul {
-    background-color: #fff;
-    width: 120px;
-    margin: auto auto;
-    border-style: solid;
-    border-color: #ff0000;
 }
 
 li {
