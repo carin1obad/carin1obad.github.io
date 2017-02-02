@@ -23,6 +23,20 @@ header {
     padding: 20px;
 }
 
+nav {
+        background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#images {
+            background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+}
 h1 {
 	text-align: center;
 	color: #00ff00;
