@@ -29,12 +29,11 @@ nav {
     padding: 20px;
 }
 
-#images {
-            background-color: #FFE2B8;
+section {
+        background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
-
 
 }
 
@@ -72,25 +71,7 @@ li {
 }
 
 
-#history {
-	background-color: #fff;
-    text-align: center;
-    font-size: 18px;
-	margin: 0 auto;
-	margin-top: 225px;
-    border-style: solid;
-    border-color: #00ff00;
-    width: 600px;
-	}
 
-.crepe_image {
-    float: left; 
-    margin-bottom: 0.25em;
-    border-style: solid;
-    border-color: #ff0000;
-    padding-right: 3px;
-    padding-left: 3px;
-}
 
 .crepe_types {
 
