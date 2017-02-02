@@ -75,6 +75,11 @@ li {
     font-weight: bold;
 }
 
-
+#history {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+}
 
 
