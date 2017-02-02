@@ -37,6 +37,7 @@ nav {
 
 
 }
+
 h1 {
 	text-align: center;
 	color: #00ff00;
@@ -89,6 +90,13 @@ li {
     border-color: #ff0000;
     padding-right: 3px;
     padding-left: 3px;
+}
+
+.crepe_types {
+
+     background-color:  #FFC675;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 
