@@ -30,7 +30,7 @@ nav {
 }
 
 section {
-        background-color: #E8C66A;
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
@@ -51,9 +51,6 @@ h1 {
     background-color: #fff;
 }
 
-hr {
-  width: 100;
-}
 
 
 ul {
@@ -76,15 +73,6 @@ li {
     font-weight: bold;
 }
 
-
-
-
-.crepe_types {
-
-     background-color:  #FFC675;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 
 
