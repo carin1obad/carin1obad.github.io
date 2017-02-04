@@ -29,6 +29,12 @@ hr {
   width: 100;
 }
 
+nav {
+        background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
@@ -102,5 +108,10 @@ li {
     padding-left: 3px;
 }
 
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
 
 
