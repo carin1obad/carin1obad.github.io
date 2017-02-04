@@ -51,6 +51,15 @@ nav {
     width: 30%;
 }
 
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
 section {
     background-color: #FFE2B8;
     border: 1px black solid;
