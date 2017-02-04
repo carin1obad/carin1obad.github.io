@@ -1,0 +1,103 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Rokkitt');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+div.wrap {
+    width:800px;
+    height: 100px;
+    margin:15px auto;
+    margin-bottom: 400px;
+}
+
+body {
+   background: url("../images/free-beach-background.jpg")
+    no-repeat center center  fixed;
+    background-size: cover;
+    font-family: 'Rokkitt', serif;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+        background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+}
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+	text-align: center;
+	color: #00ff00;
+	font-size: 50px;
+    font-family: 'Lobster', cursive;
+    background-color: #fff;
+}
+
+li {
+    float: center;
+}
+
+#slogan { 
+    text-align: center;
+    color: #ff0000;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#history {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+}
+
+
