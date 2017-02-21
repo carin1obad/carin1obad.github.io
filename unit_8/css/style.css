@@ -38,22 +38,22 @@ header {
 
 #two_column {
     background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1% black solid;
+    padding: 1.5%;
 }
 
 #left {
     background-color: violet;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1% black solid;
+    padding: .025%;
     float: left;
     width: 58%;
 }
 
 #right {
     background-color: pink;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1% black solid;
+    padding: 1.5%;
     float: right;   
     width: 30%;
 }
@@ -70,7 +70,7 @@ header {
 
 ul {
     background-color: #fff;
-    width: 120px;
+    width: .15%;
     margin: auto auto;
     border-style: solid;
     border-color: #ff0000;
@@ -106,14 +106,14 @@ li {
     margin-bottom: 0;
     border-style: solid;
     border-color: #ff0000;
-    padding-right: 3px;
-    padding-left: 3px;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 
 footer {
     background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
+    border: 1% black solid;
+    padding: 1.5%;
 }
 
 
