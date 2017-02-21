@@ -102,12 +102,12 @@ li {
 	}
 
 .crepe_image {
-    float: center; 
+    float: left; 
     margin-bottom: 0;
     border-style: solid;
     border-color: #ff0000;
-    padding-right: .02%;
-    padding-left: .02%;
+    padding-right: .1%;
+    padding-left: .1%;
 }
 
 footer {
