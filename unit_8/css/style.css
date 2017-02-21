@@ -8,7 +8,7 @@ div.wrap {
     height: 100px;
     margin:15px auto;
     margin-bottom: 400px;
-    font-size: 50px;
+    font-size: 25px;
 }
 
 body {
@@ -21,13 +21,13 @@ body {
 h1 {
 	text-align: center;
 	color: #00ff00;
-	font-size: 1em;
+	font-size: 2em;
     font-family: 'Lobster', cursive;
     background-color: #fff;
 }
 
 hr {
-  width: 100;
+  width: 100%;
 }
 
 header {
@@ -90,7 +90,7 @@ li {
 #slogan { 
     text-align: center;
     color: #ff0000;
-    font-size: 25px;
+    font-size: 2em;
     font-style: italic;
     font-weight: bold;
 }
