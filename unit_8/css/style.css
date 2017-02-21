@@ -32,13 +32,12 @@ hr {
 
 header {
     background-color: #FFED74;
-    border: 1% black solid;
     padding: 1.5%;
 }
 
 nav {
     background-color: #E8C66A;
-    border: 1% black solid;
+    border: 10% black solid;
     padding: 2%;
 }
 
