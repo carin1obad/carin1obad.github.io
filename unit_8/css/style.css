@@ -102,7 +102,7 @@ li {
 	}
 
 .crepe_image {
-    float: left; 
+    float: center; 
     margin-bottom: 0;
     border-style: solid;
     border-color: #ff0000;
