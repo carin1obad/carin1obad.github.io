@@ -81,6 +81,7 @@ ul {
     margin: auto auto;
     border-style: solid;
     border-color: #ff0000;
+    font-size: .8em;
 }
 
 li {
@@ -90,7 +91,7 @@ li {
 #slogan { 
     text-align: center;
     color: #ff0000;
-    font-size: 2em;
+    font-size: 1em;
     font-style: italic;
     font-weight: bold;
 }
@@ -99,7 +100,7 @@ li {
 #history {
 	background-color: #fff;
     text-align: center;
-    font-size: 18px;
+    font-size: .8em;
 	margin: 0 auto;
 	margin-top: 225px;
     border-style: solid;
