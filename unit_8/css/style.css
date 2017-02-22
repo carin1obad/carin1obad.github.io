@@ -116,7 +116,7 @@ footer {
     padding: 1.5%;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 800px) {
   .crepe_image {
     float:none;
     width:auto;
