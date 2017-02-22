@@ -121,6 +121,9 @@ footer {
     float:none;
     width:auto;
   }
+  #two_column {
+    width:auto;
+  }
 
   #left {
     width: 50%;
