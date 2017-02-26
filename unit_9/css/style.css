@@ -69,8 +69,8 @@ img {
   width: 480px;
 }
 
-#hero {
-  background: #fffebb;
+#main_image {
+  background: #FF0000;
 }
 
 section {
@@ -79,7 +79,7 @@ section {
   overflow: auto;
 }
 
-#about {
+#history {
   font-size: 28px;
   width: 40%;
   display: inline-block;
