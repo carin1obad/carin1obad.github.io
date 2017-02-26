@@ -16,7 +16,7 @@ h1 {
 h2 {
   font-size: 26px;
   padding: 13px 0;
-  color: #fffebb;
+  color: #ff0000;
   border-bottom-color: #fffebb;
 }
 
@@ -70,7 +70,7 @@ img {
 }
 
 #main_image {
-  background: #FF0000;
+  background: #fffebb;
 }
 
 section {
@@ -85,7 +85,7 @@ section {
   display: inline-block;
 }
 
-#services {
+#crepe_types {
   font-size: 22px;
   width: 40%;
   float: right;
