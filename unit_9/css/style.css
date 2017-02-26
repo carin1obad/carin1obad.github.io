@@ -106,7 +106,7 @@ section {
     width: 320px;
   }
 
-  #about {
+  #history {
     font-size: 1.4em;
     line-height: 1.8em;
   }
@@ -128,7 +128,7 @@ section {
     width: 100%;
     padding: .6em;
   }
-  #services {
+  #crepe_types {
     float: none;
     font-size: 1.4em;
   }
